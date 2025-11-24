@@ -8,4 +8,4 @@ Our focus is on plant-pollinator interactions.
 
 This GitHub page serves to store our projects. 
 
-ResearGate: 
+ResearGate: https://www.researchgate.net/lab/PEG-Pollination-Ecology-Group-Zdenek-Janovsky 
